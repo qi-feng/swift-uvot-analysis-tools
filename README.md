@@ -14,7 +14,7 @@ Python helper wrappers for HEASoft UVOT analysis tools.
 
 Python packages:
 ```bash
-$> pip -r install requirements.txt
+$> pip install -r requirements.txt
 ```
 
 ## [Tutorial Video](https://youtu.be/B9SCERNLt_0)
